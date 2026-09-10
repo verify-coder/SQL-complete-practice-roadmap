@@ -1,5 +1,5 @@
 # SQL-complete-practice-roadmap
-# 🚀 SQL Data Analyst Roadmap | Beginner to Advanced
+# 🚀 SQL Roadmap | Beginner to Advanced
 
 A structured **SQL practice journey** designed to build strong database and data analysis skills through **327+ hands-on questions** using MySQL.
 
